@@ -43,12 +43,12 @@ reserved:
   Paragraph Summary: Paragraph Summary
   Component Summary: Component Summary
 news:
-  title1: There were some chanages.
-  description1: Description one.
+  title1: There were some chanages news.
+  description1: Description one new.
   link1: https://mips.makerdao.com/mips/details/MIP0
   linkforum1: https://forum.makerdao.com/t/mip0-the-maker-improvement-proposal-framework/1902
   linkmd1: https://github.com/DSpotDevelopers/mips/blob/master/MIP0/General-MIP-Template.md
-  title2: Title two
-  description2: Description two
-  title3: Title three
-  description3: Description three
+  title2: Title two new
+  description2: Description two new
+  title3: Title three new
+  description3: Description three new
